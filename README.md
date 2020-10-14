@@ -1,2 +1,2 @@
-# Common-Dashboard
+# Country-Dashboard
 The script for the dashboards of individual countries
