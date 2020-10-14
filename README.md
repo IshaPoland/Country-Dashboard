@@ -1,2 +1,2 @@
 # Dashboard
-The script for the country dashboards
+The script for the dashboards of individual countries
